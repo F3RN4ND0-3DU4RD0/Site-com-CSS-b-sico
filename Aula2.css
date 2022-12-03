@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+.box{
+    box-sizing: content-box;
+    height: 100px;
+    width: 100px;
+    margin: 100px;
+}
+.red{
+    background-color: #f00;
+    margin-left: 0px;
+}
+.green{
+    background-color: #0f0;
+    margin-bottom: 0px;
+}
+.blue{
+    background-color: #00f;
+    margin-left: 400px; 
+    margin-top: 0px;
+}
